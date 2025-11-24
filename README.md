@@ -26,7 +26,7 @@
 # ˗ˏˋ ✩ yoaimii ✩ ˎˊ˗  
 #### turning iced strawberry milk into code ૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNwcmluZy1raXR0eS1waW5rLXB1cnBsZS1ibHVlLXdhdmUtd2l0aC1zdGFycw/giphy.gif" width="280"/>
+<img src="https://i.pinimg.com/originals/77/7b/d2/777bd2dff6951b74393fd41ddfb9e4f3.gif" width="280"/>
 
 ✧ first year Computer Science student  
 ✧ currently obsessed with C++, HTML/CSS/JS, and cute things 
@@ -43,7 +43,9 @@
 | Web Dev Basics             | HTML ⋅ CSS ⋅ vanilla JS (my comfort zone ♡)          | living my best life  |
 | Pre cal Math               | Logarithms, graphs, logic gates… brain loading      | send help pls        |
 | Computer Systems           | how computers aren't magic (rude)                   | mind officially blown |
-⋆｡‧˚ʚɞ˚‧｡⋆
+
+
+⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆⋆｡‧˚ʚɞ˚‧｡⋆
 
 ### languages i'm playing with right now ♡
 <img src="https://skillicons.dev/icons?i=cpp,html,css,js,vscode,github&theme=light" />
