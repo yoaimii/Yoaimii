@@ -9,7 +9,7 @@
 ✨ currently learning: C++, HTML, 2D animation  
 🌱 building silly little projects just for fun  
 🍦 fueled by ice cream and music  
-⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+
 
 ╭────── · · ୨୧ · · ──────╮
         Love love
@@ -20,5 +20,46 @@
 ### fun stats ~ ♡
 ![Yoaimii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoaimii&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=89ffdd&text_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoaimii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+<div align="center">
+
+# ˗ˏˋ ✩ yoaimii ✩ ˎˊ˗  
+#### turning iced strawberry milk into code ૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNwcmluZy1raXR0eS1waW5rLXB1cnBsZS1ibHVlLXdhdmUtd2l0aC1zdGFycw/giphy.gif" width="280"/>
+
+✧ first year Computer Science student  
+✧ currently obsessed with C++, HTML/CSS/JS, and pastel everything  
+✧ building tiny cute projects just because they make me happy ~  
+
+</div>
+
+## currently grinding ⋆˖⁺‧₊☾◯☾₊‧⁺˖⋆
+> "Snacks + music + pink mechanical keyboard = unstoppable" 
+
+| subject                    | what i'm learning                                   | vibe check           |
+|----------------------------|-----------------------------------------------------|--------------------- |
+| Intro to Programming       | C++ (OOP, pointers, STL… slowly making friends)     | surviving → thriving |
+| Web Dev Basics             | HTML ⋅ CSS ⋅ vanilla JS (my comfort zone ♡)          | living my best life  |
+| Discrete Math              | proofs, graphs, logic gates… brain loading          | send help pls        |
+| Computer Systems           | how computers aren't magic (rude)                   | mind officially blown |
+
+### mini milestones this semester ₊˚⊹♡
+- [x] first "Hello World" in C++ without copying  
+- [x] made a website that changes to pastel themes when you click  
+- [x] survived my first 200-line C++ project  
+- [ ] finish finals without crying  
+- [ ] get at least one A (manifesting very hard)
+
+
+### languages i'm playing with right now ♡
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,vscode,git,github&theme=light" />
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoaimii&color=ffc0cb&style=flat&label=profile+visitors♡" />
+  <img src="https://moe-counter.glitch.me/get/@yoaimii?theme=rule8" />
+</div>
+
 
 </div>
