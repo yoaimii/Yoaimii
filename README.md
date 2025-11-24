@@ -11,8 +11,8 @@
 🎨 i love pastel colors & sanrio vibes  
 ☕ fueled by iced coffee and lo-fi music  
 
-### my current mood when coding:
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNwcmluZy1jYXQtd2l0aC1mbG93ZXJzLXdhdmUtd2F2aW5nLXdpdGgtYmlnLWV5ZXM/giphy.gif" width="200"/>
+
+<img src="file:///C:/Users/Iryanis/Enscape/ImportedTextures/Downloads/download.gif" width="500"/>
 
 ### fun stats ~ ♡
 ![Yoaimii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoaimii&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=89ffdd&text_color=ffffff)
