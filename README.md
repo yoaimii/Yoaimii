@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yoaimii/Yoaimii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi hi! ₍ᐢ. .ᐢ₎ ♡ ༘*.ﾟ
+### welcome to my little corner of code ~ ✩
 
-Here are some ideas to get you started:
+![](https://github.com/user-attachments/assets/your-cute-banner-image.png)
+<!-- or use a gif! like a dancing cat or sparkling stars -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ currently learning: C++, HTML, 2D animation  
+🌱 building silly little projects just for fun  
+🎨 i love pastel colors & sanrio vibes  
+☕ fueled by iced coffee and lo-fi music  
+
+### my current mood when coding:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNwcmluZy1jYXQtd2l0aC1mbG93ZXJzLXdhdmUtd2F2aW5nLXdpdGgtYmlnLWV5ZXM/giphy.gif" width="200"/>
+
+### fun stats ~ ♡
+![Yoaimii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoaimii&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=89ffdd&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoaimii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
